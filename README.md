@@ -1,5 +1,7 @@
 # MyFirstAngular
 
+!! Made on the base of https://www.youtube.com/watch?v=IYI0em-xT28 tutorial
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
